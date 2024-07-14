@@ -32,5 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phuongngo0320&show_icons=true&locale=en" alt="phuongngo0320" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phuongngo0320&" alt="phuongngo0320" /></p>
-
-<a href="https://app.daily.dev/pnv2003"><img src="https://api.daily.dev/devcards/v2/qDgc8SSNymUN5a9ujFpAu.png?r=iby&type=wide" width="652" alt="Phuong's Dev Card"/></a>
