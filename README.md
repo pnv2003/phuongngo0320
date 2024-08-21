@@ -18,7 +18,7 @@
 
 ###
 
-
+<br clear="both">
 
 <h3 align="left">My Skills</h3>
 
