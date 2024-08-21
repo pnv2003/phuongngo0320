@@ -4,7 +4,7 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/phuongngo0320/count.svg?"  />
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
   <img height="270" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/de3zz9z-ffa11131-1b4b-4e9f-8d01-aaddb1a14243.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGUzeno5ei1mZmExMTEzMS0xYjRiLTRlOWYtOGQwMS1hYWRkYjFhMTQyNDMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TFvXCZq_3q1zO1y7DXq6_-nuhYLG9laBYpzQka1offE"  />
-</div>
+</div> -->
 
 ###
 
@@ -140,6 +140,8 @@
 
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phuongngo0320&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=phuongngo0320&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 ###
