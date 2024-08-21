@@ -2,7 +2,7 @@
 
 ###
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/phuongngo0320/count.svg?"  />
@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="235" src="https://i.pinimg.com/originals/24/8e/47/248e47a848da59d73bd1b58b34b65a7c.gif"  />
+<img align="right" height="300" src="https://64.media.tumblr.com/510ce5245ce0c5153247db893fbf83b3/tumblr_os7ky1cgFJ1vxnjybo1_540.gifv"  />
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=phuongngo0320&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -28,13 +28,13 @@
 
 ###
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <h3 align="left">My Skills</h3>
 
 ###
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
@@ -116,13 +116,13 @@
 
 ###
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <h3 align="left">Connect with me</h3>
 
 ###
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <div align="left">
   <a href="https://www.facebook.com/phuong.ngo0320/" target="_blank">
